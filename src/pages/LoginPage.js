@@ -10,8 +10,8 @@ export const LoginPage = () => {
 
     try {
       const userSignin = await signinn({
-        email: "tricardo003@gmail.com",
-        password: "123456",
+        email: "eve.holt@reqres.in",
+        password: "cityslicka",
       });
       console.log(userSignin);
       if (userSignin) {

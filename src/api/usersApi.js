@@ -1,4 +1,4 @@
 import axios from "axios";
 
 export const login = async (user) =>
-  await axios.post("http://localhost:4000/auth/signin", user);
+  await axios.post("https://reqres.in/api/login", user);
