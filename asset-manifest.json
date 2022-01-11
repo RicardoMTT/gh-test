@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/gh-test/static/js/main.6a30b1ab.js",
+    "index.html": "/gh-test/index.html",
+    "main.6a30b1ab.js.map": "/gh-test/static/js/main.6a30b1ab.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6a30b1ab.js"
+  ]
+}
